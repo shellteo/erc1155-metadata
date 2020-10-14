@@ -8,7 +8,7 @@ services:
     volumes:
       - /usr/local/dao499/backend-config/config.prod.js:/usr/src/app/config/config.default.js
     ports:
-      - 7011:7001
+      - 7198:7001
     networks:
       overlay:
   
@@ -20,7 +20,7 @@ services:
     volumes:
       - /usr/local/dao499/backend-config/config.prod.js:/usr/src/app/config/config.default.js
     ports:
-      - 7011:7001
+      - 7198:7001
     networks:
       overlay:
 
@@ -33,7 +33,7 @@ services:
     volumes:
       - /usr/local/dao499/backend-config/config.prod.js:/usr/src/app/config/config.default.js
     ports:
-      - 7011:7001
+      - 7198:7001
     networks:
       overlay:
 
