@@ -1,0 +1,41 @@
+version: "2"
+services:
+  prod:
+    restart: always
+    build: .
+    hostname: "{{.Service.Name}}-{{.Task.Slot}}"
+    command: npm run serve
+    volumes:
+      - /usr/local/dao499/backend-config/config.prod.js:/usr/src/app/config/config.default.js
+    ports:
+      - 7011:7001
+    networks:
+      overlay:
+  
+  test:
+    restart: always
+    build: .
+    hostname: "{{.Service.Name}}-{{.Task.Slot}}"
+    command: npm run dev
+    volumes:
+      - /usr/local/dao499/backend-config/config.prod.js:/usr/src/app/config/config.default.js
+    ports:
+      - 7011:7001
+    networks:
+      overlay:
+
+  local:
+    restart: always
+    build: .
+    hostname: "{{.Service.Name}}-{{.Task.Slot}}"
+    # command: npm run serve
+    command: npm run dev
+    volumes:
+      - /usr/local/dao499/backend-config/config.prod.js:/usr/src/app/config/config.default.js
+    ports:
+      - 7011:7001
+    networks:
+      overlay:
+
+networks:
+  overlay:
