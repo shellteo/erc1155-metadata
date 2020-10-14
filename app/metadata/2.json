@@ -1,0 +1,18 @@
+{
+    "external_url": "https://bestswap.com/nft/2",
+    "image": "https://gateway.pinata.cloud/ipfs/QmXXLRrAznxxcjNwX1LnjpVfVLiEQHfinQxwmHjRT6JUJi/best_swap_nft/2.jpg",
+    "name": "Zoro",
+    "description": "Zoro Rarely found legendary artefact",
+    "attributes": [
+        {
+            "trait_type": "Level",
+            "value": 2
+        }, {
+            "trait_type": "Type",
+            "value": "referral"
+        }, {
+            "trait_type": "Best Value",
+            "value": "200"
+        }
+    ]
+}
