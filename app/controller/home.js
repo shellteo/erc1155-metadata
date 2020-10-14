@@ -9,7 +9,6 @@ class HomeController extends Controller {
     ctx.body = {
       name: pkg.name,
       version: pkg.version,
-      relayer: this.app.relayer.address,
     };
   }
 }
