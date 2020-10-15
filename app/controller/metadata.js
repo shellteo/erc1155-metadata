@@ -2,7 +2,7 @@
 
 const Controller = require('egg').Controller;
 const metadataObj = require('../metadata/index');
-const contract1155 = require('../metadata/BFT.json');
+const contract1155 = require('../metadata/vest.json');
 
 class MetadataController extends Controller {
   async nftItem() {
