@@ -20,4 +20,8 @@ module.exports = {
       enable: false,
     },
   },
+  static: {
+    enable: true,
+    package: 'egg-static',
+  },
 };
