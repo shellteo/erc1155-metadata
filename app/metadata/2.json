@@ -1,8 +1,8 @@
 {
-    "external_url": "https://bestswap.com/nft/2",
-    "image": "https://gateway.pinata.cloud/ipfs/QmXXLRrAznxxcjNwX1LnjpVfVLiEQHfinQxwmHjRT6JUJi/best_swap_nft/2.jpg",
-    "name": "Zoro",
-    "description": "Zoro Rarely found legendary artefact",
+    "external_url": "https://bestswap.com/vest/2",
+    "image": "https://metadataapi.daojam.io/public/referral/smoker.png",
+    "name": "SMOKER",
+    "description": "",
     "attributes": [
         {
             "trait_type": "Level",
@@ -11,8 +11,20 @@
             "trait_type": "Type",
             "value": "referral"
         }, {
-            "trait_type": "Best Value",
-            "value": "200"
+            "trait_type": "Ability",
+            "value": "speedup mining"
+        }, {
+            "trait_type": "Vest Value",
+            "value": "1000"
+        }, {
+            "trait_type": "Main Color",
+            "value": "#1CA1B4"
+        }, {
+            "trait_type": "Max Supply",
+            "value": "1000"
+        }, {
+            "trait_type": "Name_CHN",
+            "value": "斯摩格"
         }
     ]
 }
