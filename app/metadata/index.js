@@ -9,33 +9,34 @@ const c3 = require('./referral/3.json');
 const c4 = require('./identity/4.json');
 const c5 = require('./identity/5.json');
 const c6 = require('./identity/6.json');
-const c7 = require('./identity/7.json');
-const c8 = require('./identity/8.json');
-const c9 = require('./identity/9.json');
 
-// referral
-const c10 = require('./referral/10.json');
-const c11 = require('./referral/11.json');
-const c12 = require('./referral/12.json');
 
 // volunteer
-const c13 = require('./volunteer/13.json');
-const c14 = require('./volunteer/14.json');
-const c15 = require('./volunteer/15.json');
+const c7 = require('./volunteer/7.json');
+const c8 = require('./volunteer/8.json');
+const c9 = require('./volunteer/9.json');
 
 // governance
-const c16 = require('./governance/16.json');
-const c17 = require('./governance/17.json');
-const c18 = require('./governance/18.json');
+const c10 = require('./governance/10.json');
+const c11 = require('./governance/11.json');
+const c12 = require('./governance/12.json');
 // timestamp
-const c19 = require('./timestamp/19.json');
-const c20 = require('./timestamp/20.json');
-const c21 = require('./timestamp/21.json');
+const c13 = require('./timestamp/13.json');
+const c14 = require('./timestamp/14.json');
+const c15 = require('./timestamp/15.json');
 // game
-const c22 = require('./game/22.json');
-const c23 = require('./game/23.json');
-const c24 = require('./game/24.json');
+const c16 = require('./game/16.json');
+const c17 = require('./game/17.json');
+const c18 = require('./game/18.json');
 
+const c19 = require('./identity/19.json');
+const c20 = require('./identity/20.json');
+const c21 = require('./identity/21.json');
+
+// referral
+const c22 = require('./referral/22.json');
+const c23 = require('./referral/23.json');
+const c24 = require('./referral/24.json');
 
 module.exports = {
   1: c1,
