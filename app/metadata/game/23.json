@@ -1,0 +1,30 @@
+{
+    "external_url": "https://bestswap.com/nft/23",
+    "image": "https://metadataapi.daojam.io/public/game/Sand-SandFruit.png",
+    "name": "Sand-Sand Fruit",
+    "description": "",
+    "attributes": [
+        {
+            "trait_type": "Level",
+            "value": 2
+        }, {
+            "trait_type": "Type",
+            "value": "game"
+        }, {
+            "trait_type": "Ability",
+            "value": ""
+        }, {
+            "trait_type": "Best Value",
+            "value": "1000"
+        }, {
+            "trait_type": "Main Color",
+            "value": "#b6a879"
+        }, {
+            "trait_type": "Max Supply",
+            "value": "1000"
+        }, {
+            "trait_type": "Name_CHN",
+            "value": "沙沙果实"
+        }
+    ]
+}

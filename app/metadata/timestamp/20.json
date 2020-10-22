@@ -1,0 +1,30 @@
+{
+    "external_url": "https://bestswap.com/nft/20",
+    "image": "https://metadataapi.daojam.io/public/timestamp/Battle-of-Res-Rosa.png",
+    "name": "Battle of Res Rosa",
+    "description": "",
+    "attributes": [
+        {
+            "trait_type": "Level",
+            "value": 2
+        }, {
+            "trait_type": "Type",
+            "value": "timestamp"
+        }, {
+            "trait_type": "Ability",
+            "value": ""
+        }, {
+            "trait_type": "Best Value",
+            "value": "1000"
+        }, {
+            "trait_type": "Main Color",
+            "value": "#906450"
+        }, {
+            "trait_type": "Max Supply",
+            "value": "1000"
+        }, {
+            "trait_type": "Name_CHN",
+            "value": "雷斯罗萨战役"
+        }
+    ]
+}

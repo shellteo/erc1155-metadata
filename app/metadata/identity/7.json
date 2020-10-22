@@ -1,0 +1,30 @@
+{
+    "external_url": "https://bestswap.com/nft/7",
+    "image": "https://metadataapi.daojam.io/public/identity/hawkeye.png",
+    "name": "Hawkeye",
+    "description": "",
+    "attributes": [
+        {
+            "trait_type": "Level",
+            "value": 1
+        }, {
+            "trait_type": "Type",
+            "value": "identity"
+        }, {
+            "trait_type": "Ability",
+            "value": ""
+        }, {
+            "trait_type": "Best Value",
+            "value": "100"
+        }, {
+            "trait_type": "Main Color",
+            "value": "#A42741"
+        }, {
+            "trait_type": "Max Supply",
+            "value": "10000"
+        }, {
+            "trait_type": "Name_CHN",
+            "value": "鹰眼"
+        }
+    ]
+}

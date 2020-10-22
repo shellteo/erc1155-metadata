@@ -1,0 +1,30 @@
+{
+    "external_url": "https://bestswap.com/vest/3",
+    "image": "https://metadataapi.daojam.io/public/referral/kuzan.png",
+    "name": "KUZAN",
+    "description": "",
+    "attributes": [
+        {
+            "trait_type": "Level",
+            "value": 3
+        }, {
+            "trait_type": "Type",
+            "value": "referral"
+        }, {
+            "trait_type": "Ability",
+            "value": "speedup mining"
+        }, {
+            "trait_type": "Best Value",
+            "value": "10000"
+        }, {
+            "trait_type": "Main Color",
+            "value": "#6947C4"
+        }, {
+            "trait_type": "Max Supply",
+            "value": "100"
+        }, {
+            "trait_type": "Name_CHN",
+            "value": "青雉"
+        }
+    ]
+}

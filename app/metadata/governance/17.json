@@ -1,0 +1,30 @@
+{
+    "external_url": "https://bestswap.com/nft/17",
+    "image": "https://metadataapi.daojam.io/public/governance/book.png",
+    "name": "Book",
+    "description": "",
+    "attributes": [
+        {
+            "trait_type": "Level",
+            "value": 2
+        }, {
+            "trait_type": "Type",
+            "value": "governance"
+        }, {
+            "trait_type": "Ability",
+            "value": ""
+        }, {
+            "trait_type": "Best Value",
+            "value": "1000"
+        }, {
+            "trait_type": "Main Color",
+            "value": "#2f7296"
+        }, {
+            "trait_type": "Max Supply",
+            "value": "1000"
+        }, {
+            "trait_type": "Name_CHN",
+            "value": "书"
+        }
+    ]
+}

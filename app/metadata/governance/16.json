@@ -1,7 +1,7 @@
 {
-    "external_url": "https://bestswap.com/vest/1",
-    "image": "https://metadataapi.daojam.io/public/referral/tashigi.png",
-    "name": "TASHIGI",
+    "external_url": "https://bestswap.com/nft/16",
+    "image": "https://metadataapi.daojam.io/public/governance/coupon.png",
+    "name": "Coupon",
     "description": "",
     "attributes": [
         {
@@ -9,22 +9,22 @@
             "value": 1
         }, {
             "trait_type": "Type",
-            "value": "referral"
+            "value": "governance"
         }, {
             "trait_type": "Ability",
-            "value": "speedup mining"
+            "value": ""
         }, {
-            "trait_type": "Vest Value",
-            "value": "100"
+            "trait_type": "Best Value",
+            "value": "1"
         }, {
             "trait_type": "Main Color",
-            "value": "#9A7B2F"
+            "value": "#7f715e"
         }, {
             "trait_type": "Max Supply",
-            "value": "10000"
+            "value": "1000000"
         }, {
             "trait_type": "Name_CHN",
-            "value": "达斯琪"
+            "value": "券"
         }
     ]
 }

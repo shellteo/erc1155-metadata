@@ -1,0 +1,30 @@
+{
+    "external_url": "https://bestswap.com/nft/18",
+    "image": "https://metadataapi.daojam.io/public/governance/medal.png",
+    "name": "Medal",
+    "description": "",
+    "attributes": [
+        {
+            "trait_type": "Level",
+            "value": 3
+        }, {
+            "trait_type": "Type",
+            "value": "governance"
+        }, {
+            "trait_type": "Ability",
+            "value": ""
+        }, {
+            "trait_type": "Best Value",
+            "value": "10000"
+        }, {
+            "trait_type": "Main Color",
+            "value": "#7e8676"
+        }, {
+            "trait_type": "Max Supply",
+            "value": "100"
+        }, {
+            "trait_type": "Name_CHN",
+            "value": "勋章"
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "external_url": "https://bestswap.com/nft/19",
+    "image": "https://metadataapi.daojam.io/public/timestamp/Battle-of-Alabastan.png",
+    "name": "Battle of Alabastan",
+    "description": "",
+    "attributes": [
+        {
+            "trait_type": "Level",
+            "value": 1
+        }, {
+            "trait_type": "Type",
+            "value": "timestamp"
+        }, {
+            "trait_type": "Ability",
+            "value": ""
+        }, {
+            "trait_type": "Best Value",
+            "value": "1"
+        }, {
+            "trait_type": "Main Color",
+            "value": "#d1d1b0"
+        }, {
+            "trait_type": "Max Supply",
+            "value": "1000000"
+        }, {
+            "trait_type": "Name_CHN",
+            "value": "阿拉巴斯坦战役"
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "external_url": "https://bestswap.com/nft/14",
+    "image": "https://metadataapi.daojam.io/public/volunteer/koala.png",
+    "name": "Koala",
+    "description": "",
+    "attributes": [
+        {
+            "trait_type": "Level",
+            "value": 2
+        }, {
+            "trait_type": "Type",
+            "value": "volunteer"
+        }, {
+            "trait_type": "Ability",
+            "value": ""
+        }, {
+            "trait_type": "Best Value",
+            "value": "1000"
+        }, {
+            "trait_type": "Main Color",
+            "value": "#ae608b"
+        }, {
+            "trait_type": "Max Supply",
+            "value": "1000"
+        }, {
+            "trait_type": "Name_CHN",
+            "value": "克尔拉"
+        }
+    ]
+}

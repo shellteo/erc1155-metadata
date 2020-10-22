@@ -1,7 +1,7 @@
 {
-    "external_url": "https://bestswap.com/vest/2",
-    "image": "https://metadataapi.daojam.io/public/referral/smoker.png",
-    "name": "SMOKER",
+    "external_url": "https://bestswap.com/nft/5",
+    "image": "https://metadataapi.daojam.io/public/identity/ace.png",
+    "name": "Portgas·D· Ace",
     "description": "",
     "attributes": [
         {
@@ -9,22 +9,22 @@
             "value": 2
         }, {
             "trait_type": "Type",
-            "value": "referral"
+            "value": "identity"
         }, {
             "trait_type": "Ability",
-            "value": "speedup mining"
+            "value": ""
         }, {
-            "trait_type": "Vest Value",
+            "trait_type": "Best Value",
             "value": "1000"
         }, {
             "trait_type": "Main Color",
-            "value": "#1CA1B4"
+            "value": "#CD3156"
         }, {
             "trait_type": "Max Supply",
             "value": "1000"
         }, {
             "trait_type": "Name_CHN",
-            "value": "斯摩格"
+            "value": "艾斯"
         }
     ]
 }

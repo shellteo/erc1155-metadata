@@ -1,0 +1,30 @@
+{
+    "external_url": "https://bestswap.com/nft/11",
+    "image": "https://metadataapi.daojam.io/public/referral/garp.png",
+    "name": "GARP",
+    "description": "",
+    "attributes": [
+        {
+            "trait_type": "Level",
+            "value": 2
+        }, {
+            "trait_type": "Type",
+            "value": "referral"
+        }, {
+            "trait_type": "Ability",
+            "value": ""
+        }, {
+            "trait_type": "Best Value",
+            "value": "1000"
+        }, {
+            "trait_type": "Main Color",
+            "value": "#535364"
+        }, {
+            "trait_type": "Max Supply",
+            "value": "1000"
+        }, {
+            "trait_type": "Name_CHN",
+            "value": "卡普"
+        }
+    ]
+}

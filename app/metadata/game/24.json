@@ -1,7 +1,7 @@
 {
-    "external_url": "https://bestswap.com/vest/3",
-    "image": "https://metadataapi.daojam.io/public/referral/kuzan.png",
-    "name": "KUZAN",
+    "external_url": "https://bestswap.com/nft/24",
+    "image": "https://metadataapi.daojam.io/public/game/RubberFruit.png",
+    "name": "Rubber Fruit",
     "description": "",
     "attributes": [
         {
@@ -9,22 +9,22 @@
             "value": 3
         }, {
             "trait_type": "Type",
-            "value": "referral"
+            "value": "game"
         }, {
             "trait_type": "Ability",
-            "value": "speedup mining"
+            "value": ""
         }, {
-            "trait_type": "Vest Value",
+            "trait_type": "Best Value",
             "value": "10000"
         }, {
             "trait_type": "Main Color",
-            "value": "#6947C4"
+            "value": "#9e4052"
         }, {
             "trait_type": "Max Supply",
-            "value": "100"
+            "value": "1000"
         }, {
             "trait_type": "Name_CHN",
-            "value": "青雉"
+            "value": "橡皮果实"
         }
     ]
 }
